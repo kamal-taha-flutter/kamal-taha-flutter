@@ -1,24 +1,31 @@
 # Hi, I'm Kamal Taha 👋
 
-### Junior Flutter Developer | Dart & Mobile App Development
+###  Flutter Developer | Mobile App Development
 
-I'm a Flutter developer focused on building responsive mobile applications, integrating REST APIs, and organizing application code using maintainable architecture patterns.
+I'm a Flutter developer focused on building mobile applications with Dart and Flutter. I enjoy creating reusable UI components, integrating REST APIs and Firebase, and organizing code using maintainable architecture patterns.
 
-- 📱 **Mobile Development:** Flutter, Dart, BLoC/Cubit
-- 🌐 **API Integration:** REST APIs, Dio, JSON
-- 🔥 **Backend Services:** Firebase Authentication, Cloud Firestore
-- 🧱 **Architecture:** Feature-based architecture, Repository Pattern, GetIt
-- 🧪 **Quality & Delivery:** Unit/Widget Testing, Git, GitHub Actions
-- 📍 Tanta, Egypt
+### 🧰 Technical Skills
 
-### Featured Projects
+- **Language:** Dart
+- **Framework:** Flutter
+- **State Management:** BLoC, Cubit
+- **Networking:** REST APIs, Dio, JSON
+- **Backend Services:** Firebase Authentication, Cloud Firestore
+- **Architecture:** Feature-Based Architecture, Layered Architecture, Repository Pattern
+- **Dependency Injection:** GetIt
+- **Tools:** Git, GitHub, Postman, Figma
 
-- **Coffee Shop App** — Flutter, Dio, REST APIs, BLoC/Cubit
-- **MR Educational Platform** — Flutter, SQLite, CI/CD, automated APK releases
-- **Elwakeel Store** — Flutter, REST APIs, role-based application features
-- **Meshwar App** — Flutter, Firebase, BLoC/Cubit
+### 🚀 Featured Projects
 
-### Connect With Me
+- **[Coffee Shop App](https://github.com/kamal-taha-flutter/cofee_shop_app)** — Coffee ordering app with REST API integration, authentication, favorites, and order management.
+- **[MR Educational Platform](https://github.com/infoertiqaaa-alt/edu-app)** — Educational app featuring video lessons, QR attendance, local notes, and automated release workflows.
+- **[Elwakeel Store](https://github.com/kama-a11y/elwakeel_store)** — Arabic RTL store-management app for customers, suppliers, invoices, and inventory.
+- **[Meshwar App](https://github.com/kama-a11y/meshwar_app)** — Shoe-shopping app using Firebase Authentication and Cloud Firestore.
+
+### 📫 Connect With Me
 
 - [LinkedIn](https://linkedin.com/in/kamal-taha-flutter)
+- [Portfolio](https://kamal.ertiqaa.site)
 - [GitHub](https://github.com/kamal-taha-flutter)
+
+📍 Tanta, Egypt
