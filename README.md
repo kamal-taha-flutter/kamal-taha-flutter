@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Kamal Taha 👋
 
-<!--
-**kamal-taha-flutter/kamal-taha-flutter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Flutter Developer | Dart & Mobile App Development
 
-Here are some ideas to get you started:
+I'm a Flutter developer focused on building responsive mobile applications, integrating REST APIs, and organizing application code using maintainable architecture patterns.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📱 **Mobile Development:** Flutter, Dart, BLoC/Cubit
+- 🌐 **API Integration:** REST APIs, Dio, JSON
+- 🔥 **Backend Services:** Firebase Authentication, Cloud Firestore
+- 🧱 **Architecture:** Feature-based architecture, Repository Pattern, GetIt
+- 🧪 **Quality & Delivery:** Unit/Widget Testing, Git, GitHub Actions
+- 📍 Tanta, Egypt
+
+### Featured Projects
+
+- **Coffee Shop App** — Flutter, Dio, REST APIs, BLoC/Cubit
+- **MR Educational Platform** — Flutter, SQLite, CI/CD, automated APK releases
+- **Elwakeel Store** — Flutter, REST APIs, role-based application features
+- **Meshwar App** — Flutter, Firebase, BLoC/Cubit
+
+### Connect With Me
+
+- [LinkedIn](https://linkedin.com/in/kamal-taha-flutter)
+- [GitHub](https://github.com/kamal-taha-flutter)
